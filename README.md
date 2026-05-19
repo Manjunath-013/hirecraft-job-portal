@@ -2,6 +2,10 @@
 
 HireCraft is a MERN job portal with candidate and recruiter roles, JWT authentication, recruiter job management, candidate job applications, and a resume builder with full CRUD-style editing.
 
+## Live Website
+
+View the deployed frontend here: [https://hi-ten-xi.vercel.app](https://hi-ten-xi.vercel.app)
+
 ## Tech Stack
 
 - MongoDB + Mongoose
